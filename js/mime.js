@@ -1,4 +1,6 @@
 //宣告寬與高的全域變數
+
+//ertyuiop
 var width=9; //collum 行
 var height=9;//row 列
 var restart; //開始按鈕變數
